@@ -1,6 +1,4 @@
-Sure, here's a README template for your GitHub repository:
 
----
 
 # Cryptocurrency Trading Strategies and Predictions
 
